@@ -16,7 +16,6 @@
 তাহলে আর দেরি না করে শুরু করা যাক...
 
 * [Docker Overview](/Docker-introduction/Docker_overview.md)
-* [Docker application](/Docker-introduction/Docker_overview.md)
 * [Setup and Install](/Docker-introduction/Demo-setup_and_install_docker.md)
 
 
